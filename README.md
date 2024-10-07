@@ -28,14 +28,13 @@ A Mobile app developer with 3+ years of expirience in React Native
 ![image](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql)
 ![image](https://img.shields.io/badge/Fastlane-323330?style=for-the-badge&logo=fastlane)
 
-  
+<!--
 ### 📝 My stats:
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tim7on&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tim7on&layout=compact&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
-<!---
 TimSSon/TimSSon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

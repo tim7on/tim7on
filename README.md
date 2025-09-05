@@ -24,7 +24,7 @@ A Mobile app developer with 3+ years of expirience in React Native
 ![image](https://img.shields.io/badge/React_native-61DAFB?style=for-the-badge&logo=React&logoColor=323330)
 ![image](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/MobX-323330?style=for-the-badge&logo=mobx&logoColor=FF9955)
-![image](https://img.shields.io/badge/reanimated-3-323330?style=for-the-badge&logo=reanimated&logoColor=FF9955)
+![image](https://img.shields.io/badge/reanimated-4-323330?style=for-the-badge&logo=reanimated&logoColor=FF9955)
 ![image](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql)
 ![image](https://img.shields.io/badge/Fastlane-323330?style=for-the-badge&logo=fastlane)
 
